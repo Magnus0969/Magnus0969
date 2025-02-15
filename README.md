@@ -71,10 +71,10 @@
 </p>
 
 <p align="center">
-  🔗 <a href="https://github.com/Magnus0969">GitHub</a> | 🔗 <a href="https://www.linkedin.com/in/kmagadi/">LinkedIn</a>
+  🔗 <a href="https://x.com/kmagadi007">X</a> | 🔗 <a href="https://www.linkedin.com/in/kmagadi/">LinkedIn</a>
 </p>
 
 <p align="center">
-  🚀 <em>Always learning, always growing!</em>
+   <em>Kaizen (改善): Every bug is an opportunity, every solution can be better.</em>
 </p>
 
