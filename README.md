@@ -1,4 +1,4 @@
-##
+## 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hello+there!;I'm+Karthik+B+Magadi" alt="Typing Animation" />
 </p>
@@ -12,7 +12,7 @@
   🚀 Exploring data-driven solutions to solve real-world problems<br>
   💡 Interested in Deep Learning, Time Series Forecasting, and Computer Vision<br>
   📌 Currently working on multiple Data Science & Machine Learning projects<br>
-  📫 Reach me on <strong><a href="https://www.linkedin.com/in/kmagadi/" target = '_blank' >LinkedIn</a></strong>
+  📫 Reach me on <strong><a href="https://www.linkedin.com/in/kmagadi/" target="_blank">LinkedIn</a></strong>
 </p>
 
 ---
@@ -32,10 +32,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Magnus0969/Traffic-Flow-Prediction" target = '_blank'>
+  <a href="https://github.com/Magnus0969/Traffic-Flow-Prediction" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Magnus0969&repo=Traffic-Flow-Prediction&theme=radical" alt="Pinned Repo" />
   </a>
-  <a href="https://github.com/Magnus0969/Sugarcane-Production-Data-Analysis" target = '_blank'>
+  <a href="https://github.com/Magnus0969/Sugarcane-Production-Data-Analysis" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Magnus0969&repo=Sugarcane-Production-Data-Analysis&theme=radical" alt="Pinned Repo" />
   </a>
 </p>
@@ -73,9 +73,10 @@
 </p>
 
 <p align="center">
-  🔗 <a href="https://x.com/kmagadi007" target = '_blank'>X</a> | 🔗 <a href="https://www.linkedin.com/in/kmagadi/" target = '_blank'>LinkedIn</a>
+  🔗 <a href="https://x.com/kmagadi007" target="_blank">X</a> | 🔗 <a href="https://www.linkedin.com/in/kmagadi/" target="_blank">LinkedIn</a>
 </p>
 
 <p align="center">
    <em>Kaizen (改善): Every bug is an opportunity, every solution can be better.</em>
 </p>
+
