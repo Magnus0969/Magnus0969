@@ -12,7 +12,7 @@
   🚀 Exploring data-driven solutions to solve real-world problems<br>
   💡 Interested in Deep Learning, Time Series Forecasting, and Computer Vision<br>
   📌 Currently working on multiple Data Science & Machine Learning projects<br>
-  📫 Reach me on <strong><a href="https://www.linkedin.com/in/kmagadi/">LinkedIn</a></strong>
+  📫 Reach me on <strong><a href="https://www.linkedin.com/in/kmagadi/" target = '_blank' >LinkedIn</a></strong>
 </p>
 
 ---
@@ -32,10 +32,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Magnus0969/Traffic-Flow-Prediction">
+  <a href="https://github.com/Magnus0969/Traffic-Flow-Prediction" target = '_blank'>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Magnus0969&repo=Traffic-Flow-Prediction&theme=radical" alt="Pinned Repo" />
   </a>
-  <a href="https://github.com/Magnus0969/Sugarcane-Production-Data-Analysis">
+  <a href="https://github.com/Magnus0969/Sugarcane-Production-Data-Analysis" target = '_blank'>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Magnus0969&repo=Sugarcane-Production-Data-Analysis&theme=radical" alt="Pinned Repo" />
   </a>
 </p>
@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  🔗 <a href="https://x.com/kmagadi007">X</a> | 🔗 <a href="https://www.linkedin.com/in/kmagadi/">LinkedIn</a>
+  🔗 <a href="https://x.com/kmagadi007" target = '_blank'>X</a> | 🔗 <a href="https://www.linkedin.com/in/kmagadi/" target = '_blank'>LinkedIn</a>
 </p>
 
 <p align="center">
