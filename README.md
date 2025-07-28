@@ -36,7 +36,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Magnus0969&repo=NOVA&theme=radical" alt="Pinned Repo" />
   </a>
   <a href="https://github.com/Magnus0969/CustomOs2002/tree/master" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Magnus0969&repo=CustomOs2002&theme=radical" alt="Pinned Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Magnus0969&repo=IPC-Simulator&theme=radical" alt="Pinned Repo" />
   </a>
 </p>
 
