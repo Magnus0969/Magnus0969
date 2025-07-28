@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  🎓 AIML Engineering Student | Passionate about AI, Machine Learning & Data Science<br>
-  🚀 Exploring data-driven solutions to solve real-world problems<br>
-  💡 Interested in Deep Learning, Time Series Forecasting, and Computer Vision<br>
-  📌 Currently working on multiple Data Science & Machine Learning projects<br>
+  🎓 AIML Engineering Student | Passionate about building intelligent software systems<br>
+  💻 Exploring the intersection of software development and AI to create scalable, real-world solutions<br>
+  🧠 Strong interest in Deep Learning, Time Series Forecasting, and Computer Vision<br>
+  🛠️ Currently developing applications powered by Machine Learning models<br>
   📫 Reach me on <strong><a href="https://www.linkedin.com/in/kmagadi/" target="_blank">LinkedIn</a></strong>
 </p>
 
