@@ -32,11 +32,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Magnus0969/NOVA" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Magnus0969&repo=NOVA&theme=radical" alt="Pinned Repo" />
-  </a>
   <a href="https://github.com/Magnus0969/Refract" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Magnus0969&repo=Refract&theme=radical" alt="Pinned Repo" />
+  </a>
+  <a href="https://github.com/Magnus0969/NOVA" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Magnus0969&repo=NOVA&theme=radical" alt="Pinned Repo" />
   </a>
 </p>
 
