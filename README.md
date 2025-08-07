@@ -20,21 +20,6 @@
 ---
 
 <p align="center">
-  🔥 <strong>Top Repositories:</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Magnus0969/Refract" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Magnus0969&repo=Refract&theme=radical" alt="Pinned Repo" />
-  </a>
-  <a href="https://github.com/Magnus0969/NOVA" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Magnus0969&repo=NOVA&theme=radical" alt="Pinned Repo" />
-  </a>
-</p>
-
----
-
-<p align="center">
   📌 <strong>Languages & Tools:</strong>
 </p>
 
@@ -55,17 +40,6 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
-
-
----
-
-<p align="center">
-  ⚡ <strong>Fun Fact:</strong>
-</p>
-
-<p align="center">
-  > I love exploring datasets to uncover insights and patterns that tell a story! 📊📈
-</p>
 
 ---
 
