@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <strong>I'm an AI Engineer and Developer who loves building intelligent systems and real-world tools. Always exploring new tech, solving problems, and creating AI-powered solutions that matter.</strong>
+  I'm an AI Engineer and Developer who loves building intelligent systems and real-world tools. Always exploring new tech, solving problems, and creating AI-powered solutions that matter.
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  📌 <strong>Languages & Tools:</strong>
+  📌 <strong>Tech Stack</strong>
 </p>
 
 <p align="center">
