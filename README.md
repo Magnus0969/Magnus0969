@@ -4,18 +4,21 @@
 </p>
 
 <p align="center">
-  I'm an AI Engineer and Developer who loves building intelligent systems and real-world tools. Always exploring new tech, solving problems, and creating AI-powered solutions that matter.
+  <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300"/>
 </p>
 
----
+<br>
+<br>
+<br>
 
-<p align="center">
-  📊 <strong>GitHub Stats:</strong>
-</p>
+I'm an <strong>AI Engineer and Developer</strong> who loves building intelligent systems and real-world tools.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Magnus0969&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+Always exploring new tech, solving problems, and creating <strong>AI-powered solutions</strong> that matter.
+
+
+
+<br>
+<br>
 
 ---
 
@@ -40,7 +43,6 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
-
 ---
 
 <p align="center">
@@ -54,4 +56,3 @@
 <p align="center">
    <em>Kaizen (改善): Every bug is an opportunity, every solution can be better.</em>
 </p>
-
