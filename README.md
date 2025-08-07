@@ -4,15 +4,7 @@
 </p>
 
 <p align="center">
-  💻 <strong>About Me:</strong>
-</p>
-
-<p align="center">
-🎓 AIML Engineering Student | Passionate about building intelligent and autonomous systems  <br>
-💡 Exploring the synergy between software engineering, AI agents, and system design for impactful real-world applications  <br>
-🧠 Strong interest in Agentic AI, Natural Language Interfaces, Bio-Inspired Optimization, and Multimodal Learning  <br>
-⚙️ Currently building intelligent tools like mongoai (AI-powered MongoDB agent) and working on agent-driven projects<br>
-  📫 Reach me on <strong><a href="https://www.linkedin.com/in/kmagadi/" target="_blank">LinkedIn</a></strong>
+  <strong>I'm an AI Engineer and Developer who loves building intelligent systems and real-world tools. Always exploring new tech, solving problems, and creating AI-powered solutions that matter.</strong>
 </p>
 
 ---
