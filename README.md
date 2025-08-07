@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  🎓 AIML Engineering Student | Passionate about building intelligent software systems<br>
-  💻 Exploring the intersection of software development and AI to create scalable, real-world solutions<br>
-  🧠 Strong interest in Deep Learning, Time Series Forecasting, and Computer Vision<br>
-  🛠️ Currently developing applications powered by Machine Learning models<br>
+🎓 AIML Engineering Student | Passionate about building intelligent and autonomous systems  <br>
+💡 Exploring the synergy between software engineering, AI agents, and system design for impactful real-world applications  <br>
+🧠 Strong interest in Agentic AI, Natural Language Interfaces, Bio-Inspired Optimization, and Multimodal Learning  <br>
+⚙️ Currently building intelligent tools like mongoai (AI-powered MongoDB agent) and working on agent-driven projects<br>
   📫 Reach me on <strong><a href="https://www.linkedin.com/in/kmagadi/" target="_blank">LinkedIn</a></strong>
 </p>
 
